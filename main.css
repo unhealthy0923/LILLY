@@ -30,7 +30,7 @@ h1{
 }
 .menu{
     column-count:3;
-    column-gap:10px;
+    column-gap:50px;
     column-rule:3px solid white;
 }
 .flex-container {
