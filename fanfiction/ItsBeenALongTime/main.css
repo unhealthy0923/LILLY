@@ -1,0 +1,45 @@
+﻿/*main.css*/
+
+body {
+    background-color: #050099;
+    color: white;
+    font-family: 'Do Hyeon', sans-serif;
+    font-size: 30px;
+}
+.reading {
+    background-color: black;
+    color: white;
+    font-family: 'Do Hyeon', sans-serif;
+    font-size: 30px;
+}
+.title_right {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+}
+a {
+    color:white;
+}
+h1{
+    text-align:center;
+    font-size:25px;
+}
+.text {
+    text-align: left;
+    width:800px;
+    padding: 10px;
+    font-size: 18px;
+}
+.main{
+    border: 3px solid white;
+    padding:10px;
+}
+.menu{
+    column-count:3;
+    column-gap:50px;
+    column-rule:3px solid white;
+}
+.flex-container {
+    display: flex;
+    justify-content:center;
+}
